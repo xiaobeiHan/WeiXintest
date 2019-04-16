@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // test12 22
+=======
+// test conflict
+>>>>>>> 87534ba6eeea81336495b075a58995f9c5ab6974
 const formatTime = date => {
   const year = date.getFullYear()
   const month = date.getMonth() + 1
